@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/2024-02-17-Lab-Activity-1/main.csproj",
+      "projectUniqueName": "/home/runner/PCCO104L-Act-02/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/2024-02-17-Lab-Activity-1/main.csproj",
+      "projectPath": "/home/runner/PCCO104L-Act-02/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/2024-02-17-Lab-Activity-1/obj/",
+      "outputPath": "/home/runner/PCCO104L-Act-02/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
